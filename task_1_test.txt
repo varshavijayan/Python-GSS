@@ -3,5 +3,5 @@ I will be contributing to the GSS project.
 
 Trying out the second task. 9th/Oct/2014.
 Converting character to hex representation
+Hex to binary done. 
 
-to do: printing bytes
